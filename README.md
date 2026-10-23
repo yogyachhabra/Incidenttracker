@@ -3,6 +3,8 @@ HAZARD BOARD
 A "days since last incident" tracker for a very eventful planet.
 
 You know the sign in a factory that says "14 days since last accident"? This is that, except the incidents are earthquakes, solar flares, typhoons and volcanoes. Every one of them gets its own counter, drawn with chunky seven-segment digits, under a hazard-tape border.
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/b676062e-be4f-471e-a84d-997e0494b8af" />
+
 
 Try it now!
 
